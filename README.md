@@ -51,6 +51,7 @@ This project analyzes job market trends using Microsoft Excel. The dataset conta
 
 * Data_Analyst_Job_Market_Analysis.xlsx
 * Dashboard.pdf
+<img width="1283" height="807" alt="image" src="https://github.com/user-attachments/assets/ad15c520-107d-43ea-83e0-9dc29f334dc7" />
 
 ## Author
 
