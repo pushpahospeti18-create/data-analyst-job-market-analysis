@@ -21,6 +21,10 @@ This project analyzes job market trends using Microsoft Excel. The dataset conta
 * TRIM
 * PROPER
 * Data Cleaning Techniques
+ ## Dataset Note
+
+This project uses a sample job market dataset created for learning purposes and dashboard development. The analysis demonstrates data cleaning, exploratory data analysis (EDA), Pivot Tables, KPI creation, and data visualization techniques in Microsoft Excel.
+
 
 ## Data Cleaning Steps
 
